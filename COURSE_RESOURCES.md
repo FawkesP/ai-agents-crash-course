@@ -1,4 +1,4 @@
-# AI Agents Crash Course: Build with Python & OpenAI
+cp# AI Agents Crash Course: Build with Python & OpenAI
 
 ## Environment Setup
 
